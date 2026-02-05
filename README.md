@@ -2,10 +2,11 @@
 
 OpenBio es una aplicación Full Stack desarrollada con **Laravel 11**, **Tailwind CSS** y **Docker**. Permite a los usuarios centralizar su presencia online mediante una página de perfil personalizada, similar a Linktree, pero con control total sobre los datos y las analíticas.
 
-<img width="954" height="808" alt="image" src="https://github.com/user-attachments/assets/9a445b95-18e5-4a78-82a5-36b962acb326" />
-<img width="958" height="827" alt="image" src="https://github.com/user-attachments/assets/84296dc8-21c5-4a04-874c-b215cd02b887" />
-<img width="958" height="684" alt="image" src="https://github.com/user-attachments/assets/efcc3c37-0493-4432-b289-c60af4eda8a5" />
-
+<img width="944" height="1026" alt="image" src="https://github.com/user-attachments/assets/d8d35702-a524-42b5-9d09-83a575f6ec03" />
+<img width="955" height="903" alt="image" src="https://github.com/user-attachments/assets/0a28bcf2-90ff-462d-a93a-4b67242c93ff" />
+<img width="941" height="527" alt="image" src="https://github.com/user-attachments/assets/55cdcd5c-c488-4ecc-86b0-b78f4d9e41cb" />
+<img width="958" height="949" alt="image" src="https://github.com/user-attachments/assets/fb376a7d-e026-47e2-bd03-2197d168bc10" />
+<img width="959" height="1010" alt="image" src="https://github.com/user-attachments/assets/3067eff4-5d6b-4aa6-955c-c79ff6936841" />
 
 ## ✨ Características principales
 
